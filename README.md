@@ -2,8 +2,7 @@
 Welcome to my Data Science and Machine Learning portfolio!  
 
 🚀 **Projects:**  
-- 📊 **Investment Portfolio Optimization** – Factor-based risk analysis using Python  
-- 🏦 **Banking & Insurance Analytics** – Predictive modeling in SAS  
-- 🔍 **Time Series Forecasting** – Financial market prediction using AI  
+- **Investment Portfolio Analysis** – Factor-based risk analysis and investment portfolio construction using Python  
+
 
 📂 Check out my repositories for more details!  
