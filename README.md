@@ -1,6 +1,3 @@
-# projects
-Data Science Projects from courses during my MSc in Applied Data Science for Banking and Finance
-
 # Hi, I'm Ecaterina 👋  
 Welcome to my Data Science and Machine Learning portfolio!  
 
